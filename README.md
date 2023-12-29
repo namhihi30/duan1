@@ -1,1 +1,1 @@
-Dự án đặt lịch khách sạn 
+DỰ ÁN ĐẶT LỊCH KHÁCH SẠN
